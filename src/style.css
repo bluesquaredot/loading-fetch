@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+.loading{
+  border: solid grey 1px;
+  background-color: lightgrey;
+  color: darkred;
+  width: 100px;
+  padding: 5px 0px 5px 10px;
+  
+}
